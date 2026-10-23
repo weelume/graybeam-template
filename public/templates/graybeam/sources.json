@@ -1,0 +1,294 @@
+{
+  "reference": "https://communicative-psychology-099138.framer.app/",
+  "assets": [
+    {
+      "source": "https://framerusercontent.com/images/1dHNyeKoDsAhUTSzkKZtLBk5o.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "eb3ce340fdbcbebcfc37bc36a5be3e121c20a7e6177dffe1287903e83a4dcad4",
+      "file": "images/1dHNyeKoDsAhUTSzkKZtLBk5o.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/2qb30ThVPg2vNFJaAxKMGodT6Gk.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "bcef67de1f992a20f48363bca61ca308853c1fe73057c866ea86005cf8507efb",
+      "file": "images/2qb30ThVPg2vNFJaAxKMGodT6Gk.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/2UFdK9NWTNAAPddr6pfufGmZFs.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "973a6446ebb46568a64153475635f878de57b607e787a982e6726f605c053503",
+      "file": "images/2UFdK9NWTNAAPddr6pfufGmZFs.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/2vyqxMJAQc1RVuBq0rhzOSOc.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "4741530bd4c71f3ebcd17b9f45a9701008af453f38b67dbcb9f195d3c91f0f98",
+      "file": "images/2vyqxMJAQc1RVuBq0rhzOSOc.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/2XeCsIxP1al9qNZCbBJ1CUxQk.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "8054868be67b5cd05ba2a6510bd1639d0f514b28d0e2aefdd1fb1136ca6572f6",
+      "file": "images/2XeCsIxP1al9qNZCbBJ1CUxQk.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/3NF2mS7vGqgQkuLFp3TRdYTbo0.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "db821950bb66eda0dc2c01fe031ee026f974565e72814498a464378dfb4b1fe3",
+      "file": "images/3NF2mS7vGqgQkuLFp3TRdYTbo0.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/5DbVKNfR2OPFPWEjuSCis6KzhkE.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "a219f490dd5b93109286d59edacf4da18233d1922a6b056d3d70ceecd5e32268",
+      "file": "images/5DbVKNfR2OPFPWEjuSCis6KzhkE.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/6SUYaCHWgnhQK32Fl6xriCtaSE.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "2ac1de83c5990a4e79286fe1dbd3ffb6180f86190a21a4864bc403feff787c12",
+      "file": "images/6SUYaCHWgnhQK32Fl6xriCtaSE.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/6uSd6LUisthDVsme7GaY9tj9d3I.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "2cde97fa914055288c4549592943d9e3deb4ae2e1fdba122ae315de63344aaf4",
+      "file": "images/6uSd6LUisthDVsme7GaY9tj9d3I.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/7uqwK1DlyRwaRFmQSUCWQhcIYuk.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "64bdbccc31889634c590807fc75658514e4995848c63150c955674633066138c",
+      "file": "images/7uqwK1DlyRwaRFmQSUCWQhcIYuk.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/8UaMBQHfiGVQ8MRjDBsEH0sw4w.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "88f8018237fae282d3fb1cf0ee374f423ec20d187d91bbba08389df62d9d8d43",
+      "file": "images/8UaMBQHfiGVQ8MRjDBsEH0sw4w.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/aDPfcJCCl0qCtscr1eP6SelKG00.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "bd6ca29c886d852ff9bf0c564f63c6056afac8b66cacedd3557f42c005c721aa",
+      "file": "images/aDPfcJCCl0qCtscr1eP6SelKG00.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/bzfdua9oOmP3tVgMI6k9yO5o.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "80b153d89fb1a57f01d0d22ac3c403f6c9df0514df128ad726844a67680493e2",
+      "file": "images/bzfdua9oOmP3tVgMI6k9yO5o.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/C4v5VNlySqrdz2HEkfTiRclQyM.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "c6aca111085f9eb917ab1e51f7b86f02370e7f1d7b1daf0dab2663da1782a874",
+      "file": "images/C4v5VNlySqrdz2HEkfTiRclQyM.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/c88rNMUH3TXdl9g256J1v0FSo.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "83c27946f5bf19845e4216272581dfe2aa6170a9316d11d3b549515c4385ea36",
+      "file": "images/c88rNMUH3TXdl9g256J1v0FSo.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/CiLd9mTWV77wjXThhi5g5qiFKI.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "3e400346da3e5ae5af7e5b8cb17be95959d18ff87583613b019d4912a2e1b24d",
+      "file": "images/CiLd9mTWV77wjXThhi5g5qiFKI.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/dctETfEvARZXQsq8QAOxi1WKxIM.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "a3f497549df9c9855774664114b179c1efad8b39856e3b47b961ca3183b91f1d",
+      "file": "images/dctETfEvARZXQsq8QAOxi1WKxIM.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/dFmFMz35gBev8W0sNqqiJ8JJ1s.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "a9ffdb59249db0a9e2ce4b2700d1963c35317191e053deed3e031ee02ac2341a",
+      "file": "images/dFmFMz35gBev8W0sNqqiJ8JJ1s.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/EcfyrAb69uqF398DDtn4YoqK5Ms.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "8f33a999bee7a50c913b016e9853637440acc0fdcab3d02870a6501a44726d35",
+      "file": "images/EcfyrAb69uqF398DDtn4YoqK5Ms.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/emO8qZ7J0U2hw4CxogwMo0ZgLo.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "3f6ea9dc8822309ad3763d21b175ea8a76d74ad6680be0bb9baa921c3b7f8bf4",
+      "file": "images/emO8qZ7J0U2hw4CxogwMo0ZgLo.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/fCmRTjvZ70iU2YZb63WtEUPuTkA.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "522f47b8a6cbb6bac3ed2722a22d05cf7dad2ba7c4fb4dccd680511108cd0abc",
+      "file": "images/fCmRTjvZ70iU2YZb63WtEUPuTkA.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/fPx0qmUcuIwfDUv5KV0BBh4xeHc.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "57f813ae4e677c1322394948706ffc602b949f05286cd88f1f2e54ed2e9c5aaf",
+      "file": "images/fPx0qmUcuIwfDUv5KV0BBh4xeHc.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/gjOxHt7UNxnMnVOO36J1tVn5c3Q.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "b8e9ecf2c46bbe3e58115e1947ccf438cbc39059b3a3803217c34d4f62f0ae0b",
+      "file": "images/gjOxHt7UNxnMnVOO36J1tVn5c3Q.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/i1HfgviF7gvyBrt3yjWNVEDa3g.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "02315f16a996ea828da28640e26c46605fc2d924c6041591ed94b4859fc435a3",
+      "file": "images/i1HfgviF7gvyBrt3yjWNVEDa3g.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/JVTpUecllSbJgHbXtNPed1SYzw.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "43980c5777596f310d5abd2a0156d73c63d6c8c41782095a3fb6660812ec21c8",
+      "file": "images/JVTpUecllSbJgHbXtNPed1SYzw.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/KYqt8zApMXhfhEhFvYYQpO58.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "288708eeffb36388dc5fad3c930f02fbebcde1b5bb1eff1ebdb629d2424ad850",
+      "file": "images/KYqt8zApMXhfhEhFvYYQpO58.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/MG7cPO0YUUxx2h7kuApODzrR1Hc.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "cc1eb08b5b60dbd2b64a354ea80f5a24bbf958b6d2070c963a0dc15e12142cbb",
+      "file": "images/MG7cPO0YUUxx2h7kuApODzrR1Hc.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/mxHPnJiaL2QKUbfnTfl0Xn6ipQ.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "d1c03ee9798262e76d18c26271d6639a7ec0d66412c6c15c5b573551c3278106",
+      "file": "images/mxHPnJiaL2QKUbfnTfl0Xn6ipQ.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/NS5EXl8AidHfE9uJ3vl6dVGc.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "44a007d9bb105eda9e85f74e6bcb09dbc0a75be99b41176e4b66ca42aa3db03a",
+      "file": "images/NS5EXl8AidHfE9uJ3vl6dVGc.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/nVCVwipFtxOvqIxFpaWrl6SgbTQ.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "2655af74153afa88f91f1aa3b14f62d4da06080d93023ca4661e5352aa4fc0a5",
+      "file": "images/nVCVwipFtxOvqIxFpaWrl6SgbTQ.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/orlktjgwfLfxTYhOkCZoElYxU.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "14022c9b21bf74bbe375b2e6319624f919aedcf9b445fe21f7b08257c9dd52f3",
+      "file": "images/orlktjgwfLfxTYhOkCZoElYxU.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/Oy31eCxEz8CojgUfxd9bf4Ez6Y0.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "1cb073f10265d8d5c788269539bf46015bb09d0653bb328e6ba4d78dcb95f5d9",
+      "file": "images/Oy31eCxEz8CojgUfxd9bf4Ez6Y0.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/p0iQE5OuKxNiex7eH5gRSv52X8.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "62de89d536cf98d300aab6cf4f91ddf77c056e97b0badf5aacb114bf7f797877",
+      "file": "images/p0iQE5OuKxNiex7eH5gRSv52X8.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/PqvAchLdRsI7RMKksEMgIjC1ns.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "11435c63eb13a0d021b56a819f5b919188cd02f40e6a83e4938d7185d3ee01e4",
+      "file": "images/PqvAchLdRsI7RMKksEMgIjC1ns.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/q0KaheLRnEA4hiqqeTE6zMgRNqk.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "fd5185a64c3fc671337e449ef85efff1a0c1e0a691eaa6249b38428dd1836eaf",
+      "file": "images/q0KaheLRnEA4hiqqeTE6zMgRNqk.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/rc18un5IcnFCNLIa0hx27C8tT4.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "b5b92ab7c6aaf164cc716f37861a3639d21b26771b9ae0d8bc138d1c5a46c69d",
+      "file": "images/rc18un5IcnFCNLIa0hx27C8tT4.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/ruwNdMjrdQPpFXpP8TIxqocOx4.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "219bfe38f65866ae785f53e896c9414951002add37574aed028d086c5cdc4d08",
+      "file": "images/ruwNdMjrdQPpFXpP8TIxqocOx4.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/s6zjsVhhCq8Rq0Mgk9UGHckEFY.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "f88d603f1b245b9f80babec3afdbb91f6b2d2cef955cb7eb5df939959ca6221f",
+      "file": "images/s6zjsVhhCq8Rq0Mgk9UGHckEFY.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/sVIkAW69x8aZBuiA8TyDeTJk.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "75a75a6ec7eb2524de67ae7446cf76bb6ab36179a90691709b43e2db7a5be833",
+      "file": "images/sVIkAW69x8aZBuiA8TyDeTJk.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/t3gmKksg6lFroIBsOMOU1hQ1Ohs.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "52a0472ed5f571af5e861cb689b377effce858fdd24e788e5f9771e0842e4743",
+      "file": "images/t3gmKksg6lFroIBsOMOU1hQ1Ohs.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/uEAeGRptgnE5u57ttLzPB2f0.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "5c72b6552cbe4eb9fe31fdd082f75cf8964e397844229ed7f6be4415b0ebe50e",
+      "file": "images/uEAeGRptgnE5u57ttLzPB2f0.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/uvwFuWCwXZwxonQxjdzSrhJynoI.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "ee170f27126db0214414cc877e3a2a99cc0dfbadfa9eeba3b5d08c621532170f",
+      "file": "images/uvwFuWCwXZwxonQxjdzSrhJynoI.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/v2q0cVQtrqMjScT48I9qC7ielo.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "223bd01c0c1bcf137201875db193f23617b1d389f1f231d77c7053688407ebad",
+      "file": "images/v2q0cVQtrqMjScT48I9qC7ielo.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/w2NDd0yKjFCTSz4ploxPg9zsDsE.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "0e309d128792f5bdb143c438f96917d7e940f369eb78c3f65b3dc67d8cfab0b4",
+      "file": "images/w2NDd0yKjFCTSz4ploxPg9zsDsE.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/WTgxJhBQsqeZUuOYzTa5uZgfuAQ.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "85f2ec91c1958822911d597e5510dbdc60e080032668e38603d714dc78bdc12b",
+      "file": "images/WTgxJhBQsqeZUuOYzTa5uZgfuAQ.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/ZaCoUfEbskrBDWmfgmkxdmvYaxA.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "ea08e8b591cfba43a0f5e430d61de26ef452901d98a4a00f9b02ae42b9b489ff",
+      "file": "images/ZaCoUfEbskrBDWmfgmkxdmvYaxA.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/ZgRvBKC8w1wRa3k22rt9iWvj4EU.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "4386911efabea7e105a3301322cd8fb81fd21526618475e3b666cdb4410e1b0f",
+      "file": "images/ZgRvBKC8w1wRa3k22rt9iWvj4EU.jpg"
+    },
+    {
+      "source": "https://framerusercontent.com/images/zIxDJILTrLxw5eAgdtdAcaoQIoY.jpg",
+      "license": "参考站素材，未核实商业或再分发授权",
+      "sha256": "d3f0595908175e5bfa5d0af9ecfd79e6c3919dcdf9314c769a209bb2b19c3c55",
+      "file": "images/zIxDJILTrLxw5eAgdtdAcaoQIoY.jpg"
+    }
+  ],
+  "capturedAt": "2026-10-23T03:52:46.4128955Z"
+}

@@ -1,0 +1,2090 @@
+[
+  {
+    "language": "zh",
+    "slug": "about",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "2009 年，一辆卡车\n今天，22 位伙伴",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "careers",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "建造你也\n愿意住的房子",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "contact",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "打来，或写下\n由建造者回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "costs",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "费用，逐项公开",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "每一次建造\n忠于书面承诺",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "来自施工现场\n坦诚而具体的回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/add-on-or-move",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "扩建还是搬家：先把两笔账算清楚",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "在田纳西东部的坡地上建房",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "办公室装修到底需要多久",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "逐行读懂施工报价单",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "读懂厨房翻新的选材预算",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "诺克斯维尔定制住宅到底要花多少钱",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "legal",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "法律信息",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "privacy",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "隐私政策",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "改造之前与之后\n还有当初的报价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "1928 年平房的厨房新生",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "咖啡烘焙工坊与咖啡馆",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "牙科诊所装修",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "泰利科湖畔住宅",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "林地上的现代农舍",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "主卧套房扩建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "1962 年牧场住宅的全面更新",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "二层加建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "四类建造\n一支团队\n一份合同",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/additions",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "多一点空间\n留在熟悉的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/commercial",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "让开业日期\n如约而至",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/custom-homes",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "先把预算写清楚\n再建理想的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/remodels",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "厨房、浴室与整屋\n每一项都明码实价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "terms",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "使用条款",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "about",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "ONE TRUCK IN 2009.\n22 PEOPLE TODAY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "careers",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "BUILD HOUSES\nYOU’D LIVE IN.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "contact",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "CALL. OR WRITE.\nA BUILDER ANSWERS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "costs",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "COSTS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "BUILT TO THE\nWRITTEN NUMBER.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "STRAIGHT ANSWERS\nFROM THE SITE.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/add-on-or-move",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Add on or move? The math we walk owners through",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Building on a sloped lot in East Tennessee",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "How long an office build-out really takes",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "How to read a builder’s estimate, line by line",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen remodel allowances, explained",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "What a custom home really costs in Knoxville",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "legal",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "LEGAL.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "privacy",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "PRIVACY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "BEFORE. AFTER.\nTHE NUMBER WE QUOTED.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen in a 1928 bungalow",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Coffee roastery and café",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Dental suite build-out",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Lake house on Tellico Lake",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Modern farmhouse on a wooded lot",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Primary suite addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Whole-home remodel of a 1962 ranch",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Second-story addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "FOUR KINDS OF BUILD.\nONE CREW. ONE CONTRACT.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/additions",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "More house, without moving out of yours.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/commercial",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Build-outs that open on the date in the lease.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/custom-homes",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "A custom home with the number written down first.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/remodels",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchens, baths and whole homes, priced line by line.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "terms",
+    "width": 1440,
+    "broken": [],
+    "error": false,
+    "heading": "TERMS.",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "about",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "2009 年，一辆卡车\n今天，22 位伙伴",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "careers",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "建造你也\n愿意住的房子",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "contact",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "打来，或写下\n由建造者回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "costs",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "费用，逐项公开",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "每一次建造\n忠于书面承诺",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "来自施工现场\n坦诚而具体的回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/add-on-or-move",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "扩建还是搬家：先把两笔账算清楚",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "在田纳西东部的坡地上建房",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "办公室装修到底需要多久",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "逐行读懂施工报价单",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "读懂厨房翻新的选材预算",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "诺克斯维尔定制住宅到底要花多少钱",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "legal",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "法律信息",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "privacy",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "隐私政策",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "改造之前与之后\n还有当初的报价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "1928 年平房的厨房新生",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "咖啡烘焙工坊与咖啡馆",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "牙科诊所装修",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "泰利科湖畔住宅",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "林地上的现代农舍",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "主卧套房扩建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "1962 年牧场住宅的全面更新",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "二层加建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "四类建造\n一支团队\n一份合同",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/additions",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "多一点空间\n留在熟悉的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/commercial",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "让开业日期\n如约而至",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/custom-homes",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "先把预算写清楚\n再建理想的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/remodels",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "厨房、浴室与整屋\n每一项都明码实价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "terms",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "使用条款",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "about",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "ONE TRUCK IN 2009.\n22 PEOPLE TODAY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "careers",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "BUILD HOUSES\nYOU’D LIVE IN.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "contact",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "CALL. OR WRITE.\nA BUILDER ANSWERS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "costs",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "COSTS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "BUILT TO THE\nWRITTEN NUMBER.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "STRAIGHT ANSWERS\nFROM THE SITE.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/add-on-or-move",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Add on or move? The math we walk owners through",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Building on a sloped lot in East Tennessee",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "How long an office build-out really takes",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "How to read a builder’s estimate, line by line",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen remodel allowances, explained",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "What a custom home really costs in Knoxville",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "legal",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "LEGAL.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "privacy",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "PRIVACY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "BEFORE. AFTER.\nTHE NUMBER WE QUOTED.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen in a 1928 bungalow",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Coffee roastery and café",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Dental suite build-out",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Lake house on Tellico Lake",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Modern farmhouse on a wooded lot",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Primary suite addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Whole-home remodel of a 1962 ranch",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Second-story addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "FOUR KINDS OF BUILD.\nONE CREW. ONE CONTRACT.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/additions",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "More house, without moving out of yours.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/commercial",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Build-outs that open on the date in the lease.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/custom-homes",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "A custom home with the number written down first.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/remodels",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchens, baths and whole homes, priced line by line.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "terms",
+    "width": 834,
+    "broken": [],
+    "error": false,
+    "heading": "TERMS.",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "about",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "2009 年，一辆卡车\n今天，22 位伙伴",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "careers",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "建造你也\n愿意住的房子",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "contact",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "打来，或写下\n由建造者回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "costs",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "费用，逐项公开",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "每一次建造\n忠于书面承诺",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "来自施工现场\n坦诚而具体的回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/add-on-or-move",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "扩建还是搬家：先把两笔账算清楚",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "在田纳西东部的坡地上建房",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "办公室装修到底需要多久",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "逐行读懂施工报价单",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "读懂厨房翻新的选材预算",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "诺克斯维尔定制住宅到底要花多少钱",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "legal",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "法律信息",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "privacy",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "隐私政策",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "改造之前与之后\n还有当初的报价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "1928 年平房的厨房新生",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "咖啡烘焙工坊与咖啡馆",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "牙科诊所装修",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "泰利科湖畔住宅",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "林地上的现代农舍",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "主卧套房扩建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "1962 年牧场住宅的全面更新",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "二层加建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "四类建造\n一支团队\n一份合同",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/additions",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "多一点空间\n留在熟悉的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/commercial",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "让开业日期\n如约而至",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/custom-homes",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "先把预算写清楚\n再建理想的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/remodels",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "厨房、浴室与整屋\n每一项都明码实价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "terms",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "使用条款",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "about",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "ONE TRUCK IN 2009.\n22 PEOPLE TODAY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "careers",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "BUILD HOUSES\nYOU’D LIVE IN.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "contact",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "CALL. OR WRITE.\nA BUILDER ANSWERS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "costs",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "COSTS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "BUILT TO THE\nWRITTEN NUMBER.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "STRAIGHT ANSWERS\nFROM THE SITE.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/add-on-or-move",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Add on or move? The math we walk owners through",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Building on a sloped lot in East Tennessee",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "How long an office build-out really takes",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "How to read a builder’s estimate, line by line",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen remodel allowances, explained",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "What a custom home really costs in Knoxville",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "legal",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "LEGAL.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "privacy",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "PRIVACY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "BEFORE. AFTER.\nTHE NUMBER WE QUOTED.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen in a 1928 bungalow",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Coffee roastery and café",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Dental suite build-out",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Lake house on Tellico Lake",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Modern farmhouse on a wooded lot",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Primary suite addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Whole-home remodel of a 1962 ranch",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Second-story addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "FOUR KINDS OF BUILD.\nONE CREW. ONE CONTRACT.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/additions",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "More house, without moving out of yours.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/commercial",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Build-outs that open on the date in the lease.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/custom-homes",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "A custom home with the number written down first.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/remodels",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchens, baths and whole homes, priced line by line.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "terms",
+    "width": 390,
+    "broken": [],
+    "error": false,
+    "heading": "TERMS.",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "about",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "2009 年，一辆卡车\n今天，22 位伙伴",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "careers",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "建造你也\n愿意住的房子",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "contact",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "打来，或写下\n由建造者回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "costs",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "费用，逐项公开",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "每一次建造\n忠于书面承诺",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "来自施工现场\n坦诚而具体的回答",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/add-on-or-move",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "扩建还是搬家：先把两笔账算清楚",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "在田纳西东部的坡地上建房",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "办公室装修到底需要多久",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "逐行读懂施工报价单",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "读懂厨房翻新的选材预算",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "诺克斯维尔定制住宅到底要花多少钱",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "legal",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "法律信息",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "privacy",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "隐私政策",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "改造之前与之后\n还有当初的报价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "1928 年平房的厨房新生",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "咖啡烘焙工坊与咖啡馆",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "牙科诊所装修",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "泰利科湖畔住宅",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "林地上的现代农舍",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "主卧套房扩建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "1962 年牧场住宅的全面更新",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "二层加建",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "四类建造\n一支团队\n一份合同",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/additions",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "多一点空间\n留在熟悉的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/commercial",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "让开业日期\n如约而至",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/custom-homes",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "先把预算写清楚\n再建理想的家",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "services/remodels",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "厨房、浴室与整屋\n每一项都明码实价",
+    "overflow": false
+  },
+  {
+    "language": "zh",
+    "slug": "terms",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "使用条款",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "about",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "ONE TRUCK IN 2009.\n22 PEOPLE TODAY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "careers",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "BUILD HOUSES\nYOU’D LIVE IN.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "contact",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "CALL. OR WRITE.\nA BUILDER ANSWERS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "costs",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "COSTS.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "BUILT TO THE\nWRITTEN NUMBER.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "STRAIGHT ANSWERS\nFROM THE SITE.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/add-on-or-move",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Add on or move? The math we walk owners through",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/building-on-a-sloped-lot",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Building on a sloped lot in East Tennessee",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-long-an-office-build-out-takes",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "How long an office build-out really takes",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/how-to-read-a-builders-estimate",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "How to read a builder’s estimate, line by line",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/kitchen-remodel-allowances",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen remodel allowances, explained",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "journal/what-a-custom-home-costs-in-knoxville",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "What a custom home really costs in Knoxville",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "legal",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "LEGAL.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "privacy",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "PRIVACY.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "BEFORE. AFTER.\nTHE NUMBER WE QUOTED.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/bungalow-kitchen-fourth-and-gill",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchen in a 1928 bungalow",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/coffee-roastery-old-city",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Coffee roastery and café",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/dental-suite-turkey-creek",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Dental suite build-out",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/lake-house-tellico-lake",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Lake house on Tellico Lake",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/modern-farmhouse-hardin-valley",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Modern farmhouse on a wooded lot",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/primary-suite-addition-fountain-city",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Primary suite addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/ranch-remodel-sequoyah-hills",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Whole-home remodel of a 1962 ranch",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "projects/second-story-addition-bearden",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Second-story addition",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "FOUR KINDS OF BUILD.\nONE CREW. ONE CONTRACT.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/additions",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "More house, without moving out of yours.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/commercial",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Build-outs that open on the date in the lease.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/custom-homes",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "A custom home with the number written down first.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "services/remodels",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "Kitchens, baths and whole homes, priced line by line.",
+    "overflow": false
+  },
+  {
+    "language": "en",
+    "slug": "terms",
+    "width": 320,
+    "broken": [],
+    "error": false,
+    "heading": "TERMS.",
+    "overflow": false
+  }
+]

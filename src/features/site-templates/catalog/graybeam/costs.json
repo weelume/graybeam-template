@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "category": "custom-homes",
+    "title": {
+      "zh": "定制住宅 · 标准装修",
+      "en": "Custom home, standard finishes"
+    },
+    "price": "$245",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "许可、50 英尺范围内场地工程、标准选材及 1／2／10 年保修",
+      "en": "permits, site work to 50 ft, standard allowances, 1-2-10 warranty"
+    }
+  },
+  {
+    "id": 1,
+    "category": "custom-homes",
+    "title": {
+      "zh": "定制住宅 · 高端装修",
+      "en": "Custom home, premium finishes"
+    },
+    "price": "$325",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "现场铺装实木地板、石英石、定制橱柜预算与喷涂保温",
+      "en": "site-finished hardwood, quartz, custom cabinet allowance, spray foam"
+    }
+  },
+  {
+    "id": 2,
+    "category": "custom-homes",
+    "title": {
+      "zh": "定制住宅 · 建筑师设计",
+      "en": "Custom home, architect-designed"
+    },
+    "price": "$410",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "复杂屋顶、钢梁、大面积玻璃，按建筑图纸核价",
+      "en": "complex roof lines, steel beams, large glazing; priced from your architect’s set"
+    }
+  },
+  {
+    "id": 3,
+    "category": "custom-homes",
+    "title": {
+      "zh": "现代农舍 · 2,800 平方英尺",
+      "en": "Modern farmhouse, 2,800 sq ft"
+    },
+    "price": "$720,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "平地四卧三卫半、双车库与高端装修",
+      "en": "4 bed, 3.5 bath, two-car garage, premium finishes on a level lot"
+    }
+  },
+  {
+    "id": 4,
+    "category": "custom-homes",
+    "title": {
+      "zh": "坡地采光地下室",
+      "en": "Walkout basement on a sloped lot"
+    },
+    "price": "$58,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "开挖、混凝土墙、防水排水、框架与预留管线",
+      "en": "excavation, poured walls, waterproofing and drainage, framed and stubbed"
+    }
+  },
+  {
+    "id": 5,
+    "category": "custom-homes",
+    "title": {
+      "zh": "独立双车库",
+      "en": "Detached two-car garage"
+    },
+    "price": "$64,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "地坪、框架、匹配屋顶、一回路电源与两扇车库门",
+      "en": "slab, framing, roof to match the house, one circuit, two doors"
+    }
+  },
+  {
+    "id": 6,
+    "category": "custom-homes",
+    "title": {
+      "zh": "带顶门廊或户外厨房",
+      "en": "Covered porch or outdoor kitchen"
+    },
+    "price": "$32,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "基础、柱梁、企口吊顶、风扇与照明",
+      "en": "footings, posts and beam, tongue-and-groove ceiling, fan and lights"
+    }
+  },
+  {
+    "id": 7,
+    "category": "custom-homes",
+    "title": {
+      "zh": "清理地块、车道与管线",
+      "en": "Lot clearing, driveway and utilities"
+    },
+    "price": "$38,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "建筑范围清理、120 英尺碎石车道及水电污水接入",
+      "en": "clearing to the footprint, 120 ft gravel drive, water, power, sewer or septic tap"
+    }
+  },
+  {
+    "id": 8,
+    "category": "custom-homes",
+    "title": {
+      "zh": "地源热泵系统",
+      "en": "Geothermal heat pump system"
+    },
+    "price": "$38,500",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "钻井或埋管、热泵、风管连接、调试与平衡",
+      "en": "wells or loop field, heat pump, ductwork tie-in, start-up and balancing"
+    }
+  },
+  {
+    "id": 9,
+    "category": "additions",
+    "title": {
+      "zh": "主卧套房扩建 · 450 平方英尺",
+      "en": "Primary suite addition, 450 sq ft"
+    },
+    "price": "$158,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "地基、框架、瓷砖淋浴、步入式衣帽间与屋顶连接",
+      "en": "foundation, framing, tiled shower, walk-in closet, roof tie-in"
+    }
+  },
+  {
+    "id": 10,
+    "category": "additions",
+    "title": {
+      "zh": "二层加建",
+      "en": "Second-story addition"
+    },
+    "price": "$290",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "结构设计、临时屋顶、新楼梯、暖通分区、两卧一卫",
+      "en": "engineering, temporary roof, new stair, HVAC zone, two bedrooms and a bath"
+    }
+  },
+  {
+    "id": 11,
+    "category": "additions",
+    "title": {
+      "zh": "阳光房或四季房",
+      "en": "Sunroom or four-season room"
+    },
+    "price": "$78,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "爬行空间或地坪、保温玻璃、分体空调与房屋连接",
+      "en": "crawlspace or slab, insulated glazing, mini-split, tie-in to the house"
+    }
+  },
+  {
+    "id": 12,
+    "category": "additions",
+    "title": {
+      "zh": "车库改居住空间",
+      "en": "Garage conversion to living space"
+    },
+    "price": "$56,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "地墙保温、窗户、热泵与一间浴室预留",
+      "en": "insulated floor and walls, windows, heat pump, one bath rough-in"
+    }
+  },
+  {
+    "id": 13,
+    "category": "additions",
+    "title": {
+      "zh": "附属住宅 · 600 平方英尺",
+      "en": "ADU or backyard cottage, 600 sq ft"
+    },
+    "price": "$182,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "地基、小厨房、浴室、独立管线及许可检查",
+      "en": "foundation, kitchenette, bath, separate utilities, permit and inspections"
+    }
+  },
+  {
+    "id": 14,
+    "category": "additions",
+    "title": {
+      "zh": "厨房外扩 · 120 平方英尺",
+      "en": "Kitchen bump-out, 120 sq ft"
+    },
+    "price": "$48,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "悬挑或爬行空间楼板、屋顶连接与窗墙",
+      "en": "cantilevered or crawlspace floor, roof tie-in, window wall"
+    }
+  },
+  {
+    "id": 15,
+    "category": "additions",
+    "title": {
+      "zh": "带纱窗门廊扩建",
+      "en": "Screened porch addition"
+    },
+    "price": "$36,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "基础、楼板、匹配屋顶、纱窗系统与吊扇",
+      "en": "footings, framed floor, roof to match, screen system, ceiling fan"
+    }
+  },
+  {
+    "id": 16,
+    "category": "additions",
+    "title": {
+      "zh": "玄关与洗衣房扩建",
+      "en": "Mudroom and laundry addition"
+    },
+    "price": "$64,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "地基、内嵌储物柜、洗衣接口与瓷砖地面",
+      "en": "foundation, built-in lockers, laundry hookups, tile floor"
+    }
+  },
+  {
+    "id": 17,
+    "category": "remodels",
+    "title": {
+      "zh": "厨房改造 · 保留布局",
+      "en": "Kitchen remodel, same layout"
+    },
+    "price": "$68,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "橱柜、石英石、墙砖、照明与预算内洁具",
+      "en": "cabinets, quartz, tile backsplash, lighting, plumbing fixtures to allowance"
+    }
+  },
+  {
+    "id": 18,
+    "category": "remodels",
+    "title": {
+      "zh": "厨房改造 · 调整布局",
+      "en": "Kitchen remodel, new layout"
+    },
+    "price": "$115,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "墙体调整、水电改线、中岛与直排油烟机",
+      "en": "wall changes, new plumbing and electrical runs, island, ducted hood"
+    }
+  },
+  {
+    "id": 19,
+    "category": "remodels",
+    "title": {
+      "zh": "主浴室翻新",
+      "en": "Primary bath remodel"
+    },
+    "price": "$42,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "拆除、无门槛瓷砖淋浴、双台盆及地暖选项",
+      "en": "demolition, curbless tile shower, double vanity, heated floor option"
+    }
+  },
+  {
+    "id": 20,
+    "category": "remodels",
+    "title": {
+      "zh": "公共浴室翻新",
+      "en": "Hall bath remodel"
+    },
+    "price": "$24,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "浴缸或淋浴、台盆、坐便器、地墙砖与排风",
+      "en": "new tub or shower, vanity, toilet, tile floor and walls, fan"
+    }
+  },
+  {
+    "id": 21,
+    "category": "remodels",
+    "title": {
+      "zh": "整屋翻新",
+      "en": "Whole-home remodel"
+    },
+    "price": "$165",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "拆至结构层、更新系统、门窗、厨房与浴室",
+      "en": "gut to the studs, new systems, windows, kitchen and baths"
+    }
+  },
+  {
+    "id": 22,
+    "category": "remodels",
+    "title": {
+      "zh": "地下室装修",
+      "en": "Basement finish"
+    },
+    "price": "$85",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "框架、保温、逃生窗、墙板、地板与照明",
+      "en": "framing, insulation, egress window, drywall, flooring, lighting"
+    }
+  },
+  {
+    "id": 23,
+    "category": "remodels",
+    "title": {
+      "zh": "承重墙拆除与梁更换",
+      "en": "Load-bearing wall removal with beam"
+    },
+    "price": "$14,500",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "工程师意见、许可、梁柱与地面吊顶修补",
+      "en": "engineer’s letter, permit, beam and posts, patching floors and ceilings"
+    }
+  },
+  {
+    "id": 24,
+    "category": "remodels",
+    "title": {
+      "zh": "窗与外门套装",
+      "en": "Window and exterior door package"
+    },
+    "price": "$26,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "最多 16 扇窗与两扇门、内外饰条及废料清理",
+      "en": "up to 16 windows and two doors, trim inside and out, disposal"
+    }
+  },
+  {
+    "id": 25,
+    "category": "remodels",
+    "title": {
+      "zh": "实木地板铺装与涂装",
+      "en": "Hardwood flooring, installed and finished"
+    },
+    "price": "$14",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "基层准备、橡木地板、三层涂装与饰条恢复",
+      "en": "subfloor prep, site-finished oak, three coats, trim reinstalled"
+    }
+  },
+  {
+    "id": 26,
+    "category": "remodels",
+    "title": {
+      "zh": "沥青瓦屋顶更换",
+      "en": "Roof replacement, architectural shingle"
+    },
+    "price": "$16,800",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "拆旧、垫层、泛水、屋脊通风及 2,000 平方英尺屋面",
+      "en": "tear-off, underlayment, flashing, ridge vent, 2,000 sq ft of roof"
+    }
+  },
+  {
+    "id": 27,
+    "category": "commercial",
+    "title": {
+      "zh": "办公室装修",
+      "en": "Office build-out"
+    },
+    "price": "$95",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "隔墙、吊顶、照明、饰面、无障碍卫生间与许可",
+      "en": "partitions, ceilings, lighting, finishes, ADA restrooms, permit"
+    }
+  },
+  {
+    "id": 28,
+    "category": "commercial",
+    "title": {
+      "zh": "零售空间装修",
+      "en": "Retail build-out"
+    },
+    "price": "$120",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "店面准备、展示照明、饰面与无障碍卫生间",
+      "en": "storefront prep, display lighting, finishes, one ADA restroom"
+    }
+  },
+  {
+    "id": 29,
+    "category": "commercial",
+    "title": {
+      "zh": "餐厅或咖啡馆装修",
+      "en": "Restaurant or café build-out"
+    },
+    "price": "$310,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "燃气、油烟通风、隔油池、饰面与卫生检查",
+      "en": "gas, hood and ventilation, grease trap, finishes, health inspection"
+    }
+  },
+  {
+    "id": 30,
+    "category": "commercial",
+    "title": {
+      "zh": "医疗或牙科诊所",
+      "en": "Medical or dental suite"
+    },
+    "price": "$175",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "牙椅管道、医用气体与负压、铅屏蔽及无障碍设施",
+      "en": "plumbing to chairs, medical air and vacuum, lead-lined walls, ADA"
+    }
+  },
+  {
+    "id": 31,
+    "category": "commercial",
+    "title": {
+      "zh": "租户毛坯改善",
+      "en": "Tenant improvement, white box"
+    },
+    "price": "$48",
+    "unit": {
+      "zh": "每平方英尺",
+      "en": "PER SQ FT"
+    },
+    "desc": {
+      "zh": "分隔墙、吊顶、基础照明与一间卫生间",
+      "en": "demising walls, drop ceiling, base lighting, one restroom"
+    }
+  },
+  {
+    "id": 32,
+    "category": "commercial",
+    "title": {
+      "zh": "无障碍卫生间升级",
+      "en": "ADA restroom upgrade"
+    },
+    "price": "$18,500",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "洁具、扶手、门洞扩宽、瓷砖、标识与检查",
+      "en": "fixtures, grab bars, door widening, tile, signage, inspection"
+    }
+  },
+  {
+    "id": 33,
+    "category": "commercial",
+    "title": {
+      "zh": "店面与立面更新",
+      "en": "Storefront and facade"
+    },
+    "price": "$42,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "铝合金店面、入口门、砌体修补与外部照明",
+      "en": "aluminum storefront, entry door, masonry repair, exterior lighting"
+    }
+  },
+  {
+    "id": 34,
+    "category": "commercial",
+    "title": {
+      "zh": "仓库夹层办公室",
+      "en": "Warehouse office mezzanine"
+    },
+    "price": "$86,000",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "钢或木结构、楼梯、栏杆、两间办公室与许可",
+      "en": "steel or wood structure, stair, guardrails, two offices, permit"
+    }
+  },
+  {
+    "id": 35,
+    "category": "preconstruction",
+    "title": {
+      "zh": "现场勘察与预算沟通",
+      "en": "Site walk and budget meeting"
+    },
+    "price": "$0",
+    "unit": {
+      "zh": "固定费用",
+      "en": "FIXED"
+    },
+    "desc": {
+      "zh": "建造人员一小时现场测量、拍照与讨论",
+      "en": "one hour on site with a builder, measurements and photos"
+    }
+  },
+  {
+    "id": 36,
+    "category": "preconstruction",
+    "title": {
+      "zh": "逐项固定范围报价",
+      "en": "Itemized fixed-scope estimate"
+    },
+    "price": "$0",
+    "unit": {
+      "zh": "固定费用",
+      "en": "FIXED"
+    },
+    "desc": {
+      "zh": "逐项计价、以美元列出选材预算，有效期 60 天",
+      "en": "every line priced, allowances in dollars, valid 60 days"
+    }
+  },
+  {
+    "id": 37,
+    "category": "preconstruction",
+    "title": {
+      "zh": "地块或旧房可行性研究",
+      "en": "Feasibility study, lot or existing house"
+    },
+    "price": "$1,850",
+    "unit": {
+      "zh": "固定费用",
+      "en": "FIXED"
+    },
+    "desc": {
+      "zh": "规划退界、管线、坡度与书面预算区间",
+      "en": "zoning and setbacks, utilities, slope, a budget range in writing"
+    }
+  },
+  {
+    "id": 38,
+    "category": "preconstruction",
+    "title": {
+      "zh": "设计建造协议",
+      "en": "Design-build agreement"
+    },
+    "price": "$4,500",
+    "unit": {
+      "zh": "固定费用",
+      "en": "FIXED"
+    },
+    "desc": {
+      "zh": "设计师、三次图纸修改与选材，费用抵扣施工合同",
+      "en": "designer, three plan revisions, selections; credited to the contract"
+    }
+  },
+  {
+    "id": 39,
+    "category": "preconstruction",
+    "title": {
+      "zh": "扩建许可图纸",
+      "en": "Permit drawings for an addition"
+    },
+    "price": "$6,500",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "设计师与结构工程师、盖章图纸及许可提交",
+      "en": "designer and structural engineer, stamped set, permit filing"
+    }
+  },
+  {
+    "id": 40,
+    "category": "preconstruction",
+    "title": {
+      "zh": "测量与土壤测试协调",
+      "en": "Survey and soil test coordination"
+    },
+    "price": "$2,400",
+    "unit": {
+      "zh": "起",
+      "en": "FROM"
+    },
+    "desc": {
+      "zh": "边界测量、两次土壤钻探与地基设计报告",
+      "en": "boundary survey, two soil borings, report for the foundation design"
+    }
+  },
+  {
+    "id": 41,
+    "category": "preconstruction",
+    "title": {
+      "zh": "结构工程师意见书",
+      "en": "Structural engineering letter"
+    },
+    "price": "$950",
+    "unit": {
+      "zh": "固定费用",
+      "en": "FIXED"
+    },
+    "desc": {
+      "zh": "现场检查、梁墙尺寸核算及许可意见书",
+      "en": "site visit, beam or wall sizing, letter for the permit"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌与联系",
+      "description": "修改后检查中英文及受影响页面",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/graybeam/config/brand.ts",
+          "kind": "file",
+          "purpose": "品牌与联系"
+        }
+      ],
+      "constraints": [
+        "保留用户修改",
+        "不新增依赖",
+        "不静默发送表单",
+        "保持中英文同步"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语内容",
+      "description": "修改后检查中英文及受影响页面",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/graybeam/content.ts",
+          "kind": "file",
+          "purpose": "双语内容"
+        }
+      ],
+      "constraints": [
+        "保留用户修改",
+        "不新增依赖",
+        "不静默发送表单",
+        "保持中英文同步"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题与响应式",
+      "description": "修改后检查中英文及受影响页面",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/graybeam/theme.css",
+          "kind": "file",
+          "purpose": "主题与响应式"
+        }
+      ],
+      "constraints": [
+        "保留用户修改",
+        "不新增依赖",
+        "不静默发送表单",
+        "保持中英文同步"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "routes",
+      "title": "页面注册",
+      "description": "修改后检查中英文及受影响页面",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/graybeam/meta.ts",
+          "kind": "file",
+          "purpose": "页面注册"
+        }
+      ],
+      "constraints": [
+        "保留用户修改",
+        "不新增依赖",
+        "不静默发送表单",
+        "保持中英文同步"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    }
+  ]
+}

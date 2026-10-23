@@ -1,0 +1,14 @@
+'use client'
+import Link from 'next/link'
+import { usePathname } from 'next/navigation'
+import { Shell, href, type PageProps } from '../components/Shell'
+import { Heading, Estimate, FAQ, StoryCards } from '../components/Blocks'
+import { CostCards } from '../components/Costs'
+import { services, projects, pick, copy, image, ui } from '../content'
+export default function ServicePage({locale='zh',basePath}:PageProps){
+  const path=usePathname().slice(basePath.length).replace(/^\//,''),service=services.find(s=>path==='services/'+s.id)
+  return <Shell locale={locale} basePath={basePath}>{!service?<>
+    <Heading locale={locale} title={copy('四类建造\n一支团队\n一份合同','FOUR KINDS OF BUILD.\nONE CREW. ONE CONTRACT.')} intro={copy('定制住宅、住宅扩建、翻新改造与商业空间。每个项目都从明确范围与书面报价开始。','Custom homes, additions, remodels and commercial build-outs. Every project starts with a written scope and estimate.')}/><section className="gb-section" style={{paddingTop:0}}><div className="gb-build-list">{services.map(s=><Link key={s.id} className="gb-build" href={href(basePath,'services/'+s.id)}><img src={image(s.image)} alt=""/><div className="gb-build-content"><div><p>{locale==='zh'?'起价':'from'} {s.price}</p><h2>{pick(s.title,locale)}</h2><p>{pick(s.brief,locale)}</p></div><span className="gb-arrow">↗</span></div></Link>)}</div></section><Estimate locale={locale}/>
+  </>:<><Heading locale={locale} title={service.headline} intro={service.brief}/><img className="gb-detail-image" src={image(service.image)} alt={pick(service.title,locale)}/><section className="gb-section gb-service-body"><div className="gb-service-scope"><h2>{pick(service.title,locale)}</h2><p>{pick(service.desc,locale)}</p><h2>{locale==='zh'?'包含项目':'INCLUDED'}</h2><ul className="gb-list">{pick(service.included,locale).split(/[|｜]/).map(s=><li key={s}>{s}</li>)}</ul><h2>{locale==='zh'?'不包含项目':'NOT INCLUDED'}</h2><ul className="gb-list">{pick(service.excluded,locale).split(/[|｜]/).map(s=><li key={s}>{s}</li>)}</ul></div><aside className="gb-sidebar gb-glass"><p>{locale==='zh'?'参考起价':'Starting point'}</p><strong>{service.price}</strong><p>{pick(service.duration,locale)}</p><Link className="gb-button" href={href(basePath,'contact')+'?topic='+encodeURIComponent(pick(service.title,locale))}>{pick(ui.estimate,locale)} ↗</Link><small>{pick(ui.demo,locale)}</small></aside></section><section className="gb-section"><h2 style={{marginBottom:32}}>{locale==='zh'?'常见工程费用':'TYPICAL COSTS'}</h2><CostCards locale={locale} basePath={basePath} category={service.id}/></section><section className="gb-section"><h2 style={{marginBottom:32}}>{locale==='zh'?'近期项目':'RECENT PROJECTS'}</h2><StoryCards locale={locale} basePath={basePath} stories={projects.filter(p=>p.category===service.id)}/></section><FAQ locale={locale}/><Estimate locale={locale}/></>}
+  </Shell>
+}

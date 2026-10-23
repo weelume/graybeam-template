@@ -1,0 +1,86 @@
+[
+  {
+    "id": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "slug": "",
+    "file": "desktop-home.jpg"
+  },
+  {
+    "id": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "slug": "services",
+    "file": "desktop-services.jpg"
+  },
+  {
+    "id": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "slug": "journal",
+    "file": "desktop-journal.jpg"
+  },
+  {
+    "id": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "slug": "contact",
+    "file": "desktop-contact.jpg"
+  },
+  {
+    "id": "tablet",
+    "width": 834,
+    "height": 1180,
+    "slug": "",
+    "file": "tablet-home.jpg"
+  },
+  {
+    "id": "tablet",
+    "width": 834,
+    "height": 1180,
+    "slug": "services",
+    "file": "tablet-services.jpg"
+  },
+  {
+    "id": "tablet",
+    "width": 834,
+    "height": 1180,
+    "slug": "journal",
+    "file": "tablet-journal.jpg"
+  },
+  {
+    "id": "tablet",
+    "width": 834,
+    "height": 1180,
+    "slug": "contact",
+    "file": "tablet-contact.jpg"
+  },
+  {
+    "id": "mobile",
+    "width": 390,
+    "height": 844,
+    "slug": "",
+    "file": "mobile-home.jpg"
+  },
+  {
+    "id": "mobile",
+    "width": 390,
+    "height": 844,
+    "slug": "services",
+    "file": "mobile-services.jpg"
+  },
+  {
+    "id": "mobile",
+    "width": 390,
+    "height": 844,
+    "slug": "journal",
+    "file": "mobile-journal.jpg"
+  },
+  {
+    "id": "mobile",
+    "width": 390,
+    "height": 844,
+    "slug": "contact",
+    "file": "mobile-contact.jpg"
+  }
+]
