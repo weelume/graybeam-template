@@ -16,7 +16,7 @@ export function ContactForm({locale='zh',topic=''}:{locale?:TemplateLocale;topic
   const submit=(event:FormEvent<HTMLFormElement>)=>{
     event.preventDefault(); const form=event.currentTarget, values=new FormData(form), next:Record<string,string>={}
     for(const name of ['name','phone','type','address','message'])if(!String(values.get(name)??'').trim())next[name]=locale==='zh'?'请填写此项':'This field is required'
-    const phone=String(values.get('phone')??'');if(phone.trim()&&!/^[+()\d\s.-]{7,24}$/.test(phone))next.phone=locale==='zh'?'请输入有效联系电话':'Enter a valid phone number'
+    const phone=String(values.get('phone')??''),digits=phone.replace(/\D/g,'');if(phone.trim()&&(!/^[+()\d\s.-]{7,24}$/.test(phone)||digits.length<7||digits.length>15))next.phone=locale==='zh'?'请输入有效联系电话':'Enter a valid phone number'
     setErrors(next)
     if(Object.keys(next).length){setStatus(locale==='zh'?'请检查标出的字段':'Please check the highlighted fields');form.querySelector<HTMLElement>(`[name="${Object.keys(next)[0]}"]`)?.focus();return}
     // 演示表单没有网络、邮件或存储适配；成功仅表示本地字段校验完成。
