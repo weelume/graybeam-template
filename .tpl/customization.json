@@ -94,5 +94,6 @@
         "build"
       ]
     }
-  ]
+  ],
+  "$schema": "./schemas/customization.schema.json"
 }

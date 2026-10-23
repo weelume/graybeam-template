@@ -1,6 +1,7 @@
 import type { SiteTemplate } from '../../types'
 export const graybeamTemplate: SiteTemplate = { ...{
   "id": "graybeam",
+  "gitUrl": "https://github.com/weelume/graybeam-template",
   "name": "Graybeam · 透明报价与建筑施工",
   "localizedNames": {
     "en": "Graybeam · Builders & transparent estimates"

@@ -1,86 +1,110 @@
 [
   {
-    "id": "desktop",
+    "src": "assets/desktop-home.webp",
+    "alt": "Graybeam desktop home",
+    "device": "desktop",
     "width": 1440,
     "height": 1000,
-    "slug": "",
-    "file": "desktop-home.jpg"
+    "surfaceId": "site",
+    "pageSlug": ""
   },
   {
-    "id": "desktop",
+    "src": "assets/desktop-services.webp",
+    "alt": "Graybeam desktop services",
+    "device": "desktop",
     "width": 1440,
     "height": 1000,
-    "slug": "services",
-    "file": "desktop-services.jpg"
+    "surfaceId": "site",
+    "pageSlug": "services"
   },
   {
-    "id": "desktop",
+    "src": "assets/desktop-journal.webp",
+    "alt": "Graybeam desktop journal",
+    "device": "desktop",
     "width": 1440,
     "height": 1000,
-    "slug": "journal",
-    "file": "desktop-journal.jpg"
+    "surfaceId": "site",
+    "pageSlug": "journal"
   },
   {
-    "id": "desktop",
+    "src": "assets/desktop-contact.webp",
+    "alt": "Graybeam desktop contact",
+    "device": "desktop",
     "width": 1440,
     "height": 1000,
-    "slug": "contact",
-    "file": "desktop-contact.jpg"
+    "surfaceId": "site",
+    "pageSlug": "contact"
   },
   {
-    "id": "tablet",
+    "src": "assets/tablet-home.webp",
+    "alt": "Graybeam tablet home",
+    "device": "tablet",
     "width": 834,
     "height": 1180,
-    "slug": "",
-    "file": "tablet-home.jpg"
+    "surfaceId": "site",
+    "pageSlug": ""
   },
   {
-    "id": "tablet",
+    "src": "assets/tablet-services.webp",
+    "alt": "Graybeam tablet services",
+    "device": "tablet",
     "width": 834,
     "height": 1180,
-    "slug": "services",
-    "file": "tablet-services.jpg"
+    "surfaceId": "site",
+    "pageSlug": "services"
   },
   {
-    "id": "tablet",
+    "src": "assets/tablet-journal.webp",
+    "alt": "Graybeam tablet journal",
+    "device": "tablet",
     "width": 834,
     "height": 1180,
-    "slug": "journal",
-    "file": "tablet-journal.jpg"
+    "surfaceId": "site",
+    "pageSlug": "journal"
   },
   {
-    "id": "tablet",
+    "src": "assets/tablet-contact.webp",
+    "alt": "Graybeam tablet contact",
+    "device": "tablet",
     "width": 834,
     "height": 1180,
-    "slug": "contact",
-    "file": "tablet-contact.jpg"
+    "surfaceId": "site",
+    "pageSlug": "contact"
   },
   {
-    "id": "mobile",
+    "src": "assets/mobile-home.webp",
+    "alt": "Graybeam mobile home",
+    "device": "mobile",
     "width": 390,
     "height": 844,
-    "slug": "",
-    "file": "mobile-home.jpg"
+    "surfaceId": "site",
+    "pageSlug": ""
   },
   {
-    "id": "mobile",
+    "src": "assets/mobile-services.webp",
+    "alt": "Graybeam mobile services",
+    "device": "mobile",
     "width": 390,
     "height": 844,
-    "slug": "services",
-    "file": "mobile-services.jpg"
+    "surfaceId": "site",
+    "pageSlug": "services"
   },
   {
-    "id": "mobile",
+    "src": "assets/mobile-journal.webp",
+    "alt": "Graybeam mobile journal",
+    "device": "mobile",
     "width": 390,
     "height": 844,
-    "slug": "journal",
-    "file": "mobile-journal.jpg"
+    "surfaceId": "site",
+    "pageSlug": "journal"
   },
   {
-    "id": "mobile",
+    "src": "assets/mobile-contact.webp",
+    "alt": "Graybeam mobile contact",
+    "device": "mobile",
     "width": 390,
     "height": 844,
-    "slug": "contact",
-    "file": "mobile-contact.jpg"
+    "surfaceId": "site",
+    "pageSlug": "contact"
   }
 ]

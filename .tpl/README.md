@@ -13,3 +13,5 @@ Node 版本见 .nvmrc，pnpm 9.15.4。依赖均复用现有 React、Next.js、Fr
 ## 限制与权利
 所有价格、工期、资质、评价、职位与联系方式为示例，不构成真实施工承诺。图片商业和再分发许可未确认，listed=false、redistributionAllowed=false。正式使用前取得授权或替换素材。源码、素材和工具许可分别见 docs/LICENSE.md。
 
+
+源码仓库：https://github.com/weelume/graybeam-template（main）。构建和部署应分别执行，不因读取资料自动触发。

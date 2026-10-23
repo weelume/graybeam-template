@@ -131,7 +131,7 @@
     }
   ],
   "version": "1.0.0",
-  "gitUrl": null,
+  "gitUrl": "https://github.com/weelume/graybeam-template",
   "surfaces": [
     {
       "id": "site",

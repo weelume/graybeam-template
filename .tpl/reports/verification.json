@@ -1,0 +1,85 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-10-23T04:44:45.398Z",
+  "sourceCommit": "a5b903240a7a597759482fa4b3bb6d87a4a191df",
+  "sourceDigest": "0334e3a4b0f191d43e0caf962fd8ec365a3ef154ff714d67fd431806fd743b9f",
+  "environment": {
+    "platform": "linux (local WSL Ubuntu)",
+    "arch": "x64",
+    "node": "v24.16.0",
+    "packageManager": "9.15.4",
+    "cleanDirectory": true,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-23T04:44:20.957Z",
+      "finishedAt": "2026-10-23T04:44:22.979Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-23T04:44:22.979Z",
+      "finishedAt": "2026-10-23T04:44:25.383Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-23T04:44:25.383Z",
+      "finishedAt": "2026-10-23T04:44:26.113Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-23T04:44:26.113Z",
+      "finishedAt": "2026-10-23T04:44:44.571Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-10-23T04:44:45.398Z"
+    }
+  ],
+  "limitations": [
+    "参考站图片的商业与再分发许可尚未核实，保持 listed=false、redistributionAllowed=false",
+    "未执行从远端全新克隆后的再次安装验收",
+    "减少动态效果已在实现中尊重系统偏好，未通过浏览器环境模拟验证",
+    "三端浏览器与截图另见 browser.json、interactions.json 和 screenshots.json；最后的电话边界校验单独完成真实运行回归"
+  ]
+}

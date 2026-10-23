@@ -2,7 +2,7 @@
   "$schema": "./schemas/project.schema.json",
   "format": "git-template-project",
   "formatVersion": "0.2.0",
-  "stage": "scaffold",
+  "stage": "ready",
   "toolchain": {
     "runtime": "node",
     "runtimeVersionFile": ".nvmrc",
@@ -204,4 +204,3 @@
     "build"
   ]
 }
-
